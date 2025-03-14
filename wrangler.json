@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "broken-bonus-d677",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2f448d54-8597-4795-bd40-bb8cacc27fbd",
+      "database_name": "broken-bonus-d677-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
